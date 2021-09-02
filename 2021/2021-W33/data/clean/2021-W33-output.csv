@@ -1,0 +1,36 @@
+order_status,Orders,Sale Date,reporting_date
+New Order,A,12/29/2020,01/01/2021
+New Order,B,12/31/2020,01/01/2021
+New Order,C,01/01/2021,01/01/2021
+Fullfilled,A,12/29/2020,01/08/2021
+Unfullfilled Order,B,12/31/2020,01/08/2021
+Unfullfilled Order,C,01/01/2021,01/08/2021
+New Order,D,01/04/2021,01/08/2021
+New Order,E,01/07/2021,01/08/2021
+New Order,F,01/08/2021,01/08/2021
+Unfullfilled Order,B,12/31/2020,01/15/2021
+Fullfilled,C,01/01/2021,01/15/2021
+Unfullfilled Order,D,01/04/2021,01/15/2021
+Fullfilled,E,01/07/2021,01/15/2021
+Unfullfilled Order,F,01/08/2021,01/15/2021
+New Order,G,01/12/2021,01/15/2021
+New Order,H,01/14/2021,01/15/2021
+New Order,I,01/15/2021,01/15/2021
+New Order,J,01/15/2021,01/15/2021
+Unfullfilled Order,B,12/31/2020,01/22/2021
+Unfullfilled Order,D,01/04/2021,01/22/2021
+Fullfilled,F,01/08/2021,01/22/2021
+Unfullfilled Order,G,01/12/2021,01/22/2021
+Fullfilled,H,01/14/2021,01/22/2021
+Fullfilled,I,01/15/2021,01/22/2021
+Unfullfilled Order,J,01/15/2021,01/22/2021
+New Order,K,01/19/2021,01/22/2021
+New Order,L,01/20/2021,01/22/2021
+Unfullfilled Order,B,12/31/2020,01/29/2021
+Fullfilled,D,01/04/2021,01/29/2021
+Fullfilled,G,01/12/2021,01/29/2021
+Fullfilled,J,01/15/2021,01/29/2021
+Unfullfilled Order,K,01/19/2021,01/29/2021
+Unfullfilled Order,L,01/20/2021,01/29/2021
+New Order,M,01/23/2021,01/29/2021
+New Order,N,01/28/2021,01/29/2021
