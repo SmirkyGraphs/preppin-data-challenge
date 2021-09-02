@@ -52,4 +52,4 @@ if __name__ == '__main__':
 
     # get wanted columns & save output
     df = df[['Picture', 'Frame', 'max_size_pic', 'min_size_pic']]
-    df.to_csv('./data/clean/picture_frames.csv')
+    df.to_csv('./data/clean/picture_frames.csv', index=False)
