@@ -45,7 +45,7 @@ if __name__ == '__main__':
 
     overall['total'] = overall.sum(axis=1)
     overall['pct'] = overall['winner'] / overall['total']
-    overall['rank'] = overall['pct'].rank(method='dense', ascending=True)
+    overall['rank'] = overall['pct'].rank(method='dense', ascending=False)
 
     overall = overall[overall['winner'] > 0].sort_values(by='rank')
     overall.to_csv('./data/clean/team_overall_win_pct.csv', index=False)
