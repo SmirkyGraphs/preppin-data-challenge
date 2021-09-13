@@ -10,3 +10,6 @@ Collection of my Python solutions to the weekly [Prepping Data Challenge](https:
 - 2021-W30 - [Lift Your Spirits](https://preppindata.blogspot.com/2021/07/2021-week-30-lift-your-spirits.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W30/main.py)
 - 2021-W29 - [PD x WOW - Tokyo 2020 Calendar](https://preppindata.blogspot.com/2021/07/2021-week-29-pd-x-wow-tokyo-2020.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W29/main.py)
 - 2021-W28 - [It's Coming Rome](https://preppindata.blogspot.com/2021/07/2021-week-28-its-coming-rome.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W28/main.py)
+- 2021-W27 - [NBA Draft Lottery calculator](https://preppindata.blogspot.com/2021/07/2021-week-27-nba-draft-lottery.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W27/main.py)
+- 2021-W26 - [Rolling Weekly Revenue](https://preppindata.blogspot.com/2021/06/2021-week-26-rolling-weekly-revenue.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W26/main.py)
+
