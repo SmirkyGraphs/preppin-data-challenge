@@ -24,8 +24,7 @@ def rolling_calculation(cols, df, agg_type):
     return df['Revenue'].agg(agg_type)
 
 if __name__ == '__main__':
-
-
+    
     df['rolling_week_sum'] = df[['Date', 'Destination']].apply(rolling_calculation, df=df, agg_type='sum', axis=1)
     df['rolling_week_avg'] = df[['Date', 'Destination']].apply(rolling_calculation, df=df, agg_type='mean', axis=1)
 
