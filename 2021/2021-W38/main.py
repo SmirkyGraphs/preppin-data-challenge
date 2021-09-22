@@ -29,4 +29,5 @@ if __name__ == '__main__':
 
     # order wanted columns and save the dataset
     cols = ['Trilogy Ranking', 'Trilogy', 'avg_rating', 'film_order', 'Title', 'Rating', 'total_films']
-    films[cols].to_csv('./data/clean/2021_W38_output.csv', index=False)
+    films = films[cols].sort_values(by=['Trilogy Ranking', 'film_order'])
+    films.to_csv('./data/clean/2021_W38_output.csv', index=False)
