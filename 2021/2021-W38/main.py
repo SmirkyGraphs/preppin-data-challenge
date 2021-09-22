@@ -15,14 +15,11 @@ if __name__ == '__main__':
 
     # rank by average then max to break ties (sort then use first method)
     df = df.sort_values(by=['avg_rating', 'max_rating'], ascending=False)
-    df['rank'] = df['avg_rating'].rank(method='first', ascending=False)
+    df['Trilogy Ranking'] = df['avg_rating'].rank(method='first', ascending=False)
 
-    # merge trilogy to get ranks
-    df = (df
-        .merge(trilogy, left_on='rank', right_on='Trilogy Ranking')
-        .assign(Trilogy=trilogy['Trilogy'].str.replace('trilogy', '').str.strip())
-        .drop(columns=['max_rating', 'rank'])
-    )
+    # merge trilogy to get ranks & remove trilogy from name
+    df = df.merge(trilogy, how='left', on='Trilogy Ranking')
+    df['Trilogy'] = df['Trilogy'].str.replace('trilogy', '').str.strip()
 
     # merge avg trilogy information back into films
     films = films.merge(df, how='left', on='Trilogy Grouping')
