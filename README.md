@@ -1,6 +1,9 @@
 # preppin-data-challenge
 Collection of my Python solutions to the weekly [Prepping Data Challenge](https://preppindata.blogspot.com/p/the-challenge-index.html).
 
+- 2021-W41 - [Southend Stats](https://preppindata.blogspot.com/2021/10/2021-week-41-southend-stats.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W41/main.py)
+- 2021-W40 - [Animal Adoptions](https://preppindata.blogspot.com/2021/10/2021-week-40-animal-adoptions.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W40/main.py)
+- 2021-W39 - [Painting Bikes](https://preppindata.blogspot.com/2021/09/2021-week-39-painting-bikes.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W39/main.py)
 - 2021-W38 - [Trilogy](https://preppindata.blogspot.com/2021/09/2021-week-38-trilogy.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W38/main.py)
 - 2021-W37 - [Re-looking at Phone Contract Revenue](https://preppindata.blogspot.com/2021/09/2021-week-37-re-looking-at-phone.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W37/main.py)
 - 2021-W36 - [What's Trendy?](https://preppindata.blogspot.com/2021/09/2021-week-36-whats-trendy.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/tree/main/2021/2021-W36/main.py)
