@@ -4,6 +4,7 @@ df = pd.read_csv('./data/raw/Charity Fundraiser.csv', parse_dates=['Date'], dayf
 dates = pd.date_range(df['Date'].min(), df['Date'].max())
 
 if __name__ == '__main__':
+    
     # add in missing dates & fill
     df = (pd.DataFrame(dates)
         .rename(columns={0: 'Date'})
