@@ -1,6 +1,8 @@
 # preppin-data-challenge
 Collection of my Python solutions to the weekly [Prepping Data Challenge](https://preppindata.blogspot.com/p/the-challenge-index.html).
 
+- 2021-W43 - [Is That the Case?](https://preppindata.blogspot.com/2021/10/2021-week-43-is-that-case.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W43/main.py)
+- 2021-W42 - [Charity Fundriasing](https://preppindata.blogspot.com/2021/10/2021-week-42-charity-fundraising.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W42/main.py)
 - 2021-W41 - [Southend Stats](https://preppindata.blogspot.com/2021/10/2021-week-41-southend-stats.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W41/main.py)
 - 2021-W40 - [Animal Adoptions](https://preppindata.blogspot.com/2021/10/2021-week-40-animal-adoptions.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W40/main.py)
 - 2021-W39 - [Painting Bikes](https://preppindata.blogspot.com/2021/09/2021-week-39-painting-bikes.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W39/main.py)
