@@ -1,6 +1,10 @@
 # preppin-data-challenge
 Collection of my Python solutions to the weekly [Prepping Data Challenge](https://preppindata.blogspot.com/p/the-challenge-index.html).
 
+- 2021-W47 - [Games Night Viz Collab](https://preppindata.blogspot.com/2021/11/2021-week-47-games-night-viz-collab.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W47/main.py)
+- 2021-W46 - [Book Shop Data Modelling](https://preppindata.blogspot.com/2021/11/2021-week-46-book-shop-data-modelling.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W46/main.py)
+- 2021-W45 - [Spread the Knowledge for TC](https://preppindata.blogspot.com/2021/11/2021-week-45-spread-knowledge-for-tc.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W45/main.py)
+- 2021-W44 - [On yer bike!](https://preppindata.blogspot.com/2021/11/2021-week-44-on-yer-bike.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W44/main.py)
 - 2021-W43 - [Is That the Case?](https://preppindata.blogspot.com/2021/10/2021-week-43-is-that-case.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W43/main.py)
 - 2021-W42 - [Charity Fundriasing](https://preppindata.blogspot.com/2021/10/2021-week-42-charity-fundraising.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W42/main.py)
 - 2021-W41 - [Southend Stats](https://preppindata.blogspot.com/2021/10/2021-week-41-southend-stats.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W41/main.py)
