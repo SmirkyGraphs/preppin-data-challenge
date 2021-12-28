@@ -1,6 +1,8 @@
 # preppin-data-challenge
 Collection of my Python solutions to the weekly [Prepping Data Challenge](https://preppindata.blogspot.com/p/the-challenge-index.html).
 
+- 2021-W51 - [Departmental December - HR](https://preppindata.blogspot.com/2021/12/2021-week-51-departmental-december-it.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W51/main.py)
+- 2021-W50 - [Departmental December - Sales](https://preppindata.blogspot.com/2021/12/2021-week-50-departmental-december-sales.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W50/main.py)
 - 2021-W49 - [Departmental December - HR](https://preppindata.blogspot.com/2021/12/2021-week-49-departmental-december.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W49/main.py)
 - 2021-W48 - [Departmental December - Finance](https://preppindata.blogspot.com/2021/12/2021-week-48-departmental-december.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W48/main.py)
 - 2021-W47 - [Games Night Viz Collab](https://preppindata.blogspot.com/2021/11/2021-week-47-games-night-viz-collab.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2021/2021-W47/main.py)
