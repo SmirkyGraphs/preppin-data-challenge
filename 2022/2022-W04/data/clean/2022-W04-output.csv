@@ -1,0 +1,40 @@
+weekday,method,num_trips,daily_trips,percent_trips
+F,Aeroplane,9,1000,0.009
+F,Bicycle,173,1000,0.173
+F,Car,254,1000,0.254
+F,Mum's Shoulders,24,1000,0.024
+F,Scooter,168,1000,0.168
+F,Van,46,1000,0.046
+F,Walk,326,1000,0.326
+M,Aeroplane,9,1000,0.009
+M,Bicycle,210,1000,0.21
+M,Car,422,1000,0.422
+M,Helicopter,72,1000,0.072
+M,Hopped,3,1000,0.003
+M,Mum's Shoulders,9,1000,0.009
+M,Scooter,84,1000,0.084
+M,Van,37,1000,0.037
+M,Walk,154,1000,0.154
+Th,Aeroplane,9,1000,0.009
+Th,Bicycle,62,1000,0.062
+Th,Car,302,1000,0.302
+Th,Dad's Shoulders,9,1000,0.009
+Th,Helicopter,24,1000,0.024
+Th,Scooter,84,1000,0.084
+Th,Walk,510,1000,0.51
+Tu,Aeroplane,9,1000,0.009
+Tu,Bicycle,220,1000,0.22
+Tu,Car,364,1000,0.364
+Tu,Dad's Shoulders,15,1000,0.015
+Tu,Scooter,84,1000,0.084
+Tu,Skipped,3,1000,0.003
+Tu,Van,46,1000,0.046
+Tu,Walk,259,1000,0.259
+W,Aeroplane,9,1000,0.009
+W,Bicycle,207,1000,0.207
+W,Car,413,1000,0.413
+W,Jumped,3,1000,0.003
+W,Mum's Shoulders,13,1000,0.013
+W,Scooter,168,1000,0.168
+W,Van,33,1000,0.033
+W,Walk,154,1000,0.154
