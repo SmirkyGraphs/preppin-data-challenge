@@ -45,10 +45,7 @@ terms = (
     .sort(["id"], descending=False)
     .with_columns(
         rolling_gpa = (
-            pl.col("gpa")
-              .rolling_mean(window_size=3)
-              .over('id')
-              .round(2)
+            pl.col("gpa").rolling_mean(window_size=3).over('id').round(2)
         )
     )
 )
