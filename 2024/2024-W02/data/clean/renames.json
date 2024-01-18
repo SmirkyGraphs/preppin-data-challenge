@@ -1,0 +1,7 @@
+{
+    "Economy": "First",
+    "First Class": "Economy",
+    "Business Class": "Premium",
+    "Premium Economy": "Business",
+    "Date": "Quarter"
+}

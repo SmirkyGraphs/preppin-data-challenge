@@ -1,10 +1,15 @@
 import polars as pl
+import json
 from pathlib import Path
 
 # combine files into 1
 frames = []
 for file in Path('./data/raw/').glob('*.csv'):
     frames.append(pl.read_csv(file, try_parse_dates=True))
+
+# load renamer
+with open('./data/clean/renames.json', 'r') as f:
+    renamer = json.load(f)
 
 # adding the optional aggregation 
 df = (pl
@@ -28,13 +33,7 @@ df = (pl
         columns = 'Class',
         values = 'price',
     )
-    .rename({
-        "Economy": "First",
-        "First Class": "Economy",
-        "Business Class": "Premium",
-        "Premium Economy": "Business",
-        "Date": "Quarter"
-    })
+    .rename(renamer)
     .sort('Quarter')
 )
 
