@@ -47,5 +47,5 @@ df = (sales
     ])
 )
 
-# safe output file
+# save output file
 df.write_csv('./data/clean/2024-W03-output.csv')
