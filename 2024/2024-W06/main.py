@@ -46,12 +46,12 @@ df = (pl
     .group_by('StaffID').agg([
         pl.col('value').sum()
     ])
-    .sort('StaffID')
     .with_columns([
         pl.col("value").map_elements(get_max_bracket, return_dtype=pl.String).alias("max_tax_rate"),
         pl.col("value").map_elements(tax_calculation, return_dtype=pl.Struct).alias("taxes")
     ])
     .unnest("taxes")
+    .sort('StaffID')
 )
 
 df.write_csv('./data/clean/2024-W06-output.csv')
