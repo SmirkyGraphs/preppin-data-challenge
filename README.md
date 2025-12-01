@@ -3,17 +3,17 @@ Collection of my Python solutions to the weekly [Prepping Data Challenge](https:
 
 # 2024 Weekly Challenges
 
-- 2024-W11 - [13 Months in a Year](https://preppindata.blogspot.com/2024/03/2024-week-11-13-months-in-year.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/202-W11/main.py)
-- 2024-W10 - [Preppin' for Pulse](https://preppindata.blogspot.com/2024/03/2024-week-10-preppin-for-pulse.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/202-W10/main.py)
-- 2024-W09 - [Prep Air Capacity](https://preppindata.blogspot.com/2024/02/2024-week-9-prep-air-capacity.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/202-W09/main.py)
-- 2024-W08 - [Prep Air Loyalty](https://preppindata.blogspot.com/2024/02/2024-week-8-prep-air-loyalty.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/202-W08/main.py)
-- 2024-W07 - [Valentine's Day](https://preppindata.blogspot.com/2024/02/2024-week-7-valentines-day.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/202-W07/main.py)
-- 2024-W06 - [Staff Income Tax](https://preppindata.blogspot.com/2024/02/2024-week-6-staff-income-tax.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/202-W06/main.py)
-- 2024-W05 - [Getting The Right Data](https://preppindata.blogspot.com/2024/01/2024-week-5-getting-right-data.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/202-W05/main.py)
-- 2024-W04 - [Unpopular Seats](https://preppindata.blogspot.com/2024/01/2024-week-4-unpopular-seats.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/202-W04/main.py)
-- 2024-W03 - [Performance Against Targets](https://preppindata.blogspot.com/2024/01/2024-week-3-performance-against-targets.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/202-W03/main.py)
-- 2024-W02 - [Average Price Analysis](https://preppindata.blogspot.com/2024/01/2024-week-2-average-price-analysis.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/202-W02/main.py)
-- 2024-W01 - [Prep Air's Flow Card](https://preppindata.blogspot.com/2024/01/2024-week-1-prep-airs-flow-card.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/202-W01/main.py)
+- 2024-W11 - [13 Months in a Year](https://preppindata.blogspot.com/2024/03/2024-week-11-13-months-in-year.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2024/2024-W11/main.py)
+- 2024-W10 - [Preppin' for Pulse](https://preppindata.blogspot.com/2024/03/2024-week-10-preppin-for-pulse.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2024/2024-W10/main.py)
+- 2024-W09 - [Prep Air Capacity](https://preppindata.blogspot.com/2024/02/2024-week-9-prep-air-capacity.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2024/2024-W09/main.py)
+- 2024-W08 - [Prep Air Loyalty](https://preppindata.blogspot.com/2024/02/2024-week-8-prep-air-loyalty.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2024/2024-W08/main.py)
+- 2024-W07 - [Valentine's Day](https://preppindata.blogspot.com/2024/02/2024-week-7-valentines-day.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2024/2024-W07/main.py)
+- 2024-W06 - [Staff Income Tax](https://preppindata.blogspot.com/2024/02/2024-week-6-staff-income-tax.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2024/2024-W06/main.py)
+- 2024-W05 - [Getting The Right Data](https://preppindata.blogspot.com/2024/01/2024-week-5-getting-right-data.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2024/2024-W05/main.py)
+- 2024-W04 - [Unpopular Seats](https://preppindata.blogspot.com/2024/01/2024-week-4-unpopular-seats.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2024/2024-W04/main.py)
+- 2024-W03 - [Performance Against Targets](https://preppindata.blogspot.com/2024/01/2024-week-3-performance-against-targets.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2024/2024-W03/main.py)
+- 2024-W02 - [Average Price Analysis](https://preppindata.blogspot.com/2024/01/2024-week-2-average-price-analysis.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2024/2024-W02/main.py)
+- 2024-W01 - [Prep Air's Flow Card](https://preppindata.blogspot.com/2024/01/2024-week-1-prep-airs-flow-card.html) | [solution](https://github.com/SmirkyGraphs/preppin-data-challenge/blob/main/2024/2024-W01/main.py)
 
 # 2023 Weekly Challenges
 
